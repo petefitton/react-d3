@@ -15,3 +15,15 @@ ReactDOM.render(
 // unregister() to register() below. Note this comes with some pitfalls.
 // Learn more about service workers: https://bit.ly/CRA-PWA
 serviceWorker.unregister();
+
+// // unfinished/src/index.jsx
+// import './main.css';
+// import React    from 'react';
+// import ReactDOM from 'react-dom';
+// import Chart    from './Chart.jsx';
+
+// const mountingPoint = document.createElement('div');
+// mountingPoint.className = 'react-app';
+// document.body.appendChild(mountingPoint);
+
+// ReactDOM.render(<Chart/>, mountingPoint);
